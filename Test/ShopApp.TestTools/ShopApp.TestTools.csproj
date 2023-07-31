@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+		<PackageReference Include="FluentMigrator.Runner" Version="3.3.2" />
+		<PackageReference Include="Microsoft.Data.Sqlite.Core" Version="6.0.20" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="6.0.20" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.CommandLine" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="6.0.1" />
+		<PackageReference Include="xunit.extensibility.core" Version="2.4.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Src\02.Infrastructure\ShopApp.Persistanse.EF\ShopApp.Persistanse.EF.csproj" />
+    <ProjectReference Include="..\..\Src\02.Infrastructure\Tempete.Infrastructure\ShopApp.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>

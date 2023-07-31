@@ -1,0 +1,14 @@
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\bin\Debug\net6.0\ShopApp.Infrastructure.deps.json
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\bin\Debug\net6.0\ShopApp.Infrastructure.dll
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\bin\Debug\net6.0\ref\ShopApp.Infrastructure.dll
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\bin\Debug\net6.0\ShopApp.Infrastructure.pdb
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.dll
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ref\ShopApp.Infrastructure.dll
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.pdb
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\bin\Debug\net6.0\ShopApp.Infrastructure.runtimeconfig.json
+C:\Users\reza\Desktop\ShopApp\Src\02.Infrastructure\Tempete.Infrastructure\obj\Debug\net6.0\ShopApp.Infrastructure.genruntimeconfig.cache
